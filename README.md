@@ -1,6 +1,6 @@
-# Resume Interview Coach
+# Resume Interview Question Generator
 
-A resume-grounded interview preparation web app based on the supplied synopsis. Upload a PDF or DOCX resume, choose a target role and question configuration, then receive structured questions. Use Interview Mode to answer questions and get feedback in real time.
+A full-stack, resume-grounded Generative AI web application. Upload a PDF or DOCX resume, choose a target role and question configuration, then receive personalized interview questions and live answer coaching. Google Gemini is used when configured; a dependable local grounded mode keeps the application usable without an API key.
 
 ## What is implemented
 
